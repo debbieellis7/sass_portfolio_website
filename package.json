@@ -1,0 +1,22 @@
+{
+  "name": "sass_portfolio_website",
+  "version": "1.0.0",
+  "description": "Portfolio website using SASS",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debbieellis7/sass_portfolio_website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debbieellis7/sass_portfolio_website/issues"
+  },
+  "homepage": "https://github.com/debbieellis7/sass_portfolio_website#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
+}

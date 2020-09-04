@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/debbieellis7/sass_portfolio_website#readme",
   "devDependencies": {
-    "node-sass": "^4.13.0"
+    "node-sass": "^4.13.1"
   }
 }
